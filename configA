@@ -7,7 +7,7 @@ proxy-providers:
   fo:
     type: http
     path: ./profiles/proxies/bl.yaml
-    url: https://api.suda-cdn.com/sub?target=clash&url=https://subbs.susuda.sslcdnapp.net/link/oejKT9Dj60byU7DL?clash=2&new_name=true
+    url: #链接地址
     interval: 3600
     filter: '香港 0|台湾|新加坡|韩国|日本'
     health-check:
